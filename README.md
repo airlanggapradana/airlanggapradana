@@ -22,5 +22,3 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/airlangga
 
 - [Instagram](https://www.instagram.com/iamrangga._)
 - [LinkedIn](https://www.linkedin.com/in/airlanggapradana)
-
-![Profile Views](https://komarev.com/ghpvc/?airlanggapradana=airlanggapradana&color=green)
