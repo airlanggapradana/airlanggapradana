@@ -13,6 +13,7 @@ I'm a 19-year-old student currently pursuing a degree in Computer Science at Tel
 - **React**
 - **ExpressJS**
 - **NodeJS**
+- **NextJS**
 
 ## Connect with Me
 
