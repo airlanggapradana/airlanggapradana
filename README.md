@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a 19-year-old student currently pursuing a degree in Computer Science at Telkom University. I have a passion for technology and programming, and I'm always eager to learn new skills and improve my existing ones.
+I'm a 19-year-old student currently pursuing a degree in Computer Science. I have a passion for technology and programming, and I'm always eager to learn new skills and improve my existing ones.
 
 ## My Skills
 
